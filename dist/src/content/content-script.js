@@ -1,0 +1,1 @@
+console.log('Content script do Gerador de Senhas carregado!');
